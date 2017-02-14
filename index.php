@@ -451,7 +451,7 @@
 							<a href="https://www.linkedin.com/pub/robin-victorino/97/16a/350" target="_blank" class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0"><span class="fa fa-linkedin"></span></a>
 							<a href="https://github.com/rvictorino/" target="_blank" class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.7s" data-wow-offset="0"><span class="fa fa-github"></span></a>
 							<a href="http://www.doyoubuzz.com/robin-victorino" target="_blank" class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="1.1s" data-wow-offset="0"><span class="fa fa-user-plus"></span></a>
-							<p>&copy; 2015, All rights reserved.</p>
+							<p>&copy; 2017, All rights reserved.</p>
 							<h4>Made By Robin Victorino. Template made With <span><i class="fa fa-heart"></i></span> By <a href="http://themeforest.net/user/JunaidHira" target="_blank">Junaid Hira</a></h4>
 						</div>
 					</div>
