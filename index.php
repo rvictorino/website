@@ -146,12 +146,20 @@
 										<span data-percent="75"></span>
 									</div>
 								</div>
-                <div class="col-xs-12 progress-bar-linear">
+                                                                <div class="col-xs-12 progress-bar-linear">
 									<p class="progress-bar-text">Wordpress
 										<span>75%</span>
 									</p>
 									<div class="progress-bar">
 										<span data-percent="75"></span>
+									</div>
+								</div>
+                                                                <div class="col-xs-12 progress-bar-linear">
+									<p class="progress-bar-text">Jokes funnyness
+										<span>99%</span>
+									</p>
+									<div class="progress-bar">
+										<span data-percent="99"></span>
 									</div>
 								</div>
 							</div>
@@ -179,7 +187,15 @@
 									<div class="progress-bar">
 										<span data-percent="80"></span>
 									</div>
-								</div>
+                                                                </div>
+								<div class="col-xs-12 progress-bar-linear">
+									<p class="progress-bar-text">Animated skill bars
+										<span>2000%</span>
+									</p>
+									<div class="progress-bar">
+										<span data-percent="2000"></span>
+									</div>
+                                                                </div>
 							</div>
 						</div>
 					</div>
