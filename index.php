@@ -193,7 +193,7 @@
 										<span>2000%</span>
 									</p>
 									<div class="progress-bar">
-										<span data-percent="2000"></span>
+										<span data-percent="100"></span>
 									</div>
                                                                 </div>
 							</div>
