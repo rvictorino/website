@@ -310,6 +310,17 @@
 									</figcaption>
 								</figure>
 							</li>
+							<li class="web portfolio-content">
+								<figure>
+									<img src="img/portfolio/dailypug.ovh.png" alt="image">
+									<figcaption>
+										<div class="portfolio-desc">
+											<h4>DAILY PUG</h4>
+											<p>A fun, minimalistic website providing a new HQ pug picture every day</p>
+										</div>
+									</figcaption>
+								</figure>
+							</li>
 						</ul>
 					</div>
 				</div>
