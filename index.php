@@ -1,6 +1,6 @@
 <?php
   // constants to quickly configure what will be displayed on the page
-  $DISPLAY_BLOG_SECTION = true;
+  $DISPLAY_BLOG_SECTION = false;
 ?>
 <!DOCTYPE html>
 <html lang="en">
