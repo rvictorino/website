@@ -394,13 +394,16 @@
 			<div class="section-content">
 				<div class="container">
 					<div class="row partner-content-wrapper">
-						<figure class="col-lg-4 col-md-4 col-sm-6 col-xs-12 partner-content">
+						<figure class="col-lg-3 col-md-3 col-sm-6 col-xs-12 partner-content">
 							<div class="col-xs-12"><a href="http://www.veolia.com" target="_blank"><img src="img/partner/veolia.png" alt="image"/></a></div>
 						</figure>
-						<figure class="col-lg-4 col-md-4 col-sm-6 col-xs-12 partner-content">
+						<figure class="col-lg-3 col-md-3 col-sm-6 col-xs-12 partner-content">
+							<div class="col-xs-12"><a href="http://www.kazaden.com" target="_blank"><img src="img/partner/kazaden.png" alt="image"/></a></div>
+						</figure>
+						<figure class="col-lg-3 col-md-3 col-sm-6 col-xs-12 partner-content">
 							<div class="col-xs-12"><a href="https://www.econocom.com/fr" target="_blank"><img src="img/partner/econocom.png" alt="image"/></a></div>
 						</figure>
-						<figure class="col-lg-4 col-md-4 col-sm-6 col-xs-12 partner-content">
+						<figure class="col-lg-3 col-md-3 col-sm-6 col-xs-12 partner-content">
 							<div class="col-xs-12"><a href="http://www.sra-instruments.com/fr/" target="_blank"><img src="img/partner/sra.png" alt="image"/></a></div>
 						</figure>
 					</div>
