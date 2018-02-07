@@ -427,7 +427,6 @@
 								<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 contact-data">
 									<div class="data-icon"><span><i class="pe-7s-map-marker"></i></span></div>
 									<div class="data-info">
-										<p>73, cours de la Libert&eacute;</p>
 										<p>Lyon, France</p>
 									</div>
 								</div>
