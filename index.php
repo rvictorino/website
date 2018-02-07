@@ -1,3 +1,7 @@
+<?php
+  // constants to quickly configure what will be displayed on the page
+  $DISPLAY_BLOG_SECTION = true;
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -64,7 +68,7 @@
 					<div><a href="#service-section" class="animatescroll-link" onclick="$('.service-section').animatescroll();">SKILLS</a></div>
 					<div><a href="#testimonial-section" class="animatescroll-link" onclick="$('.testimonial-section').animatescroll();">TESTIMONIAL</a></div>
 					<div><a href="#portfolio-section" class="animatescroll-link" onclick="$('.portfolio-section').animatescroll();">PORTFOLIO</a></div>
-					<div><a href="#newsletter-section" class="animatescroll-link" onclick="$('.newsletter-section').animatescroll();">LAST BLOG POSTS</a></div>
+					<?php if($DISPLAY_BLOG_SECTION) { ?><div><a href="#newsletter-section" class="animatescroll-link" onclick="$('.newsletter-section').animatescroll();">LAST BLOG POSTS</a></div><?php } ?>
 					<div><a href="#fun-fact-section" class="animatescroll-link" onclick="$('.fun-fact-section').animatescroll();">FUN FACTS</a></div>
 					<div><a href="#partner-section" class="animatescroll-link" onclick="$('.partner-section').animatescroll();">COMPANIES</a></div>
 					<div><a href="#contact-section" class="animatescroll-link" onclick="$('.contact-section').animatescroll();">CONTACT</a></div>
@@ -311,6 +315,7 @@
 				</div>
 			</div>
 		</section>
+                <?php if($DISPLAY_BLOG_SECTION) { ?>
 		<section class="newsletter-section" id="newsletter-section" data-type="parallax-section">
       <div class="newsletter-section-overlay">
         <div class="section-title">
@@ -342,6 +347,7 @@
           </div>
         </div>
 		</section>
+                <?php } ?>
 		<section class="fun-fact-section" id="fun-fact-section">
 			<div class="section-title">
 				<div class="container">
